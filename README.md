@@ -25,6 +25,10 @@ Run this command to run the container
 ```bash
 docker run -d -p 8088:80 -u=root --name apache2-reverse-proxy -v /REPLACE-WITH-FULL-PATH/config:/etc/apache2/sites-enabled -v /REPLACE-WITH-FULL-PATH/log:/var/log/apache2  jubba/apache2-reverse-proxy
 ```
+# Test
+Edit your /etc/hosts and add this line.
+```127.0.0.1  google.local```
+Then go to [google.local](http://google.local) on your browser and you will access https://google.nl
 
 # Links
 More information can be found on the following links:
