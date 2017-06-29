@@ -30,7 +30,7 @@ Edit your /etc/hosts and add this line.
 ```
 127.0.0.1  google.local
 ```
-Then go to [google.local](http://google.local:8088) on your browser and you will access https://google.nl
+Then go to [google.local:8088](http://google.local:8088) on your browser and you will access https://google.nl
 
 # Links
 More information can be found on the following links:
