@@ -1,7 +1,7 @@
 # docker-apache2-reverse-proxy
 Dockerized apache2 reverse proxy service.
 
-<img width="300" src="https://www.docker.com/sites/default/files/Whale%20Logo332_5.png"/><img width="110" src="https://www.apache.org/foundation/press/kit/asf_logo.png"/>
+<img width="300" src="https://www.docker.com/sites/default/files/Whale%20Logo332_5.png"/><img width="300" src="https://www.apache.org/foundation/press/kit/asf_logo.png"/>
 
 # Building
 Clone the project to your directory
