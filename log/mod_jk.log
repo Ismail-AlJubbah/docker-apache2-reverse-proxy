@@ -1,0 +1,12 @@
+[Wed Jun 28 15:53:04.896 2017] [1:140340660221824] [info] init_jk::mod_jk.c (3383): mod_jk/1.2.37 initialized
+[Wed Jun 28 15:53:04.896 2017] [1:140340660221824] [error] extension_fix::jk_uri_worker_map.c (566): Could not find worker with name 'jk-manager' in uri map post processing.
+[Wed Jun 28 15:53:04.897 2017] [1:140340660221824] [error] extension_fix::jk_uri_worker_map.c (566): Could not find worker with name 'jk-status' in uri map post processing.
+[Wed Jun 28 15:53:04.942 2017] [1:140340660221824] [info] init_jk::mod_jk.c (3383): mod_jk/1.2.37 initialized
+[Wed Jun 28 15:53:04.942 2017] [1:140340660221824] [error] extension_fix::jk_uri_worker_map.c (566): Could not find worker with name 'jk-manager' in uri map post processing.
+[Wed Jun 28 15:53:04.942 2017] [1:140340660221824] [error] extension_fix::jk_uri_worker_map.c (566): Could not find worker with name 'jk-status' in uri map post processing.
+[Wed Jun 28 15:54:27.699 2017] [1:139939524974464] [info] init_jk::mod_jk.c (3383): mod_jk/1.2.37 initialized
+[Wed Jun 28 15:54:27.699 2017] [1:139939524974464] [error] extension_fix::jk_uri_worker_map.c (566): Could not find worker with name 'jk-manager' in uri map post processing.
+[Wed Jun 28 15:54:27.700 2017] [1:139939524974464] [error] extension_fix::jk_uri_worker_map.c (566): Could not find worker with name 'jk-status' in uri map post processing.
+[Wed Jun 28 15:54:27.738 2017] [1:139939524974464] [info] init_jk::mod_jk.c (3383): mod_jk/1.2.37 initialized
+[Wed Jun 28 15:54:27.738 2017] [1:139939524974464] [error] extension_fix::jk_uri_worker_map.c (566): Could not find worker with name 'jk-manager' in uri map post processing.
+[Wed Jun 28 15:54:27.738 2017] [1:139939524974464] [error] extension_fix::jk_uri_worker_map.c (566): Could not find worker with name 'jk-status' in uri map post processing.

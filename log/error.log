@@ -1,0 +1,10 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 28 15:53:04.937337 2017] [auth_digest:notice] [pid 1:tid 140340660221824] AH01757: generating secret for digest authentication ...
+[Wed Jun 28 15:53:04.944021 2017] [core:warn] [pid 1:tid 140340660221824] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 28 15:53:04.945656 2017] [mpm_event:notice] [pid 1:tid 140340660221824] AH00489: Apache/2.4.10 (Debian) mod_jk/1.2.37 OpenSSL/1.0.1t configured -- resuming normal operations
+[Wed Jun 28 15:53:04.947854 2017] [core:notice] [pid 1:tid 140340660221824] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Jun 28 15:54:27.733485 2017] [auth_digest:notice] [pid 1:tid 139939524974464] AH01757: generating secret for digest authentication ...
+[Wed Jun 28 15:54:27.740166 2017] [core:warn] [pid 1:tid 139939524974464] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Jun 28 15:54:27.741913 2017] [mpm_event:notice] [pid 1:tid 139939524974464] AH00489: Apache/2.4.10 (Debian) mod_jk/1.2.37 OpenSSL/1.0.1t configured -- resuming normal operations
+[Wed Jun 28 15:54:27.742327 2017] [core:notice] [pid 1:tid 139939524974464] AH00094: Command line: 'apache2 -D FOREGROUND'
