@@ -27,7 +27,9 @@ docker run -d -p 8088:80 -u=root --name apache2-reverse-proxy -v /REPLACE-WITH-F
 ```
 # Test
 Edit your /etc/hosts and add this line.
-```127.0.0.1  google.local```
+```
+127.0.0.1  google.local
+```
 Then go to [google.local](http://google.local) on your browser and you will access https://google.nl
 
 # Links
